@@ -53,7 +53,7 @@ public class DadosIniciais {
     "Hamilton",
     "Lin-Manuel Miranda (Original Broadway Cast)",
     "A trilha sonora oficial do musical Hamilton — mistura hip-hop, R&B, soul e show tunes que narra a vida de Alexander Hamilton através de 46 faixas divididas em dois atos, com duração total de aproximadamente 2h22. O álbum reinventa o teatro musical tradicional com batidas contemporâneas e rap ágil, mantendo a força dramática e a riqueza histórica da narrativa.",
-    new BigDecimal("99.90"),
+    new BigDecimal("1.90"),
     330,
     musical,
     "assets/img/fotos-produtos/produto1.jpeg"
@@ -64,7 +64,7 @@ Produto p2 = new Produto(
     "Chico Buarque de Hollanda (Vol. 1)",
     "Chico Buarque",
     "Álbum de estreia de Chico Buarque, lançado em 1966. Considerado um marco da MPB, reúne composições que misturam poesia, crítica social e melodias tradicionais brasileiras. Traz faixas icônicas como “A Banda”, vencedora do Festival de Música Popular Brasileira, além de músicas que ajudaram a consolidar Chico como um dos maiores compositores do país.",
-    new BigDecimal("89.90"),
+    new BigDecimal("0.90"),
     225,
     mpb,
     "assets/img/fotos-produtos/produto2.jpeg"
@@ -75,7 +75,7 @@ Produto p3 = new Produto(
     "Die With A Smile",
     "Lady Gaga & Bruno Mars",
     "Single colaborativo de Lady Gaga e Bruno Mars, trazendo uma mistura marcante de pop e soul. A faixa destaca os vocais poderosos dos dois artistas e apresenta produção refinada, com arranjos modernos e atmosfera romântica. Este lançamento especial em CD inclui a versão oficial do single e é um item ideal para fãs e colecionadores.",
-    new BigDecimal("59.90"),
+    new BigDecimal("0.90"),
     550,
     pop,
     "assets/img/fotos-produtos/produto3.jpeg"
